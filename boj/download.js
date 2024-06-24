@@ -100,4 +100,4 @@ function initPage(id) {
 
 const rootData = [];
 // 자신의 ID 넣어서 실행
-initPage('');
+initPage('hi6724');

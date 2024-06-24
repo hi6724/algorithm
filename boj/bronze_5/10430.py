@@ -1,1 +1,9 @@
-# Example content
+temp = input()
+temp = temp.split(" ")
+A=int(temp[0])
+B=int(temp[1])
+C=int(temp[2])
+print((A+B)%C)
+print(((A%C) + (B%C))%C)
+print((A*B)%C)
+print(((A%C) *(B%C))%C)

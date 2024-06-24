@@ -1,10 +1,11 @@
 # data.json와 다운받은 소스코드들 같은 폴더로 이동 후 실행
 import os
 import json
+import shutil
 
 def rename_and_move_files(file_info):
     for data in file_info:
-        tier_folder = f"tier_{data['tier']}"
+        tier_folder = f"{data['tier']}"
         if not os.path.exists(tier_folder):
             os.makedirs(tier_folder)
 
@@ -13,7 +14,7 @@ def rename_and_move_files(file_info):
     for data in file_info:
         file_id = data['id']
         file = data['file_name']
-        tier_folder = f"tier_{data['tier']}"
+        tier_folder = f"{data['tier']}"
 
         if file_id in id_to_problem_id:
             ex = 'py'
@@ -33,7 +34,7 @@ def rename_and_move_files(file_info):
                 counter += 1
 
             try:
-                os.rename(file, new_name)
+                shutil.move(file, new_name)
                 print(f"Renamed and moved {file} to {new_name}")
             except FileNotFoundError:
                 print(f"Error: {file} not found.")
@@ -44,12 +45,8 @@ def rename_and_move_files(file_info):
 with open('data.json', 'r', encoding='utf-8') as f:
     file_info = json.load(f)
 
-for data in file_info:
-    with open(data['file_name'], 'w') as f:
-        f.write("# Example content")
-
 rename_and_move_files(file_info)
 
 for tier in set(item['tier'] for item in file_info):
-    tier_folder = f"tier_{tier}"
+    tier_folder = f"{tier}"
     print(f"Contents of {tier_folder}: {os.listdir(tier_folder)}")

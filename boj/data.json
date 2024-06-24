@@ -1,12 +1,21 @@
 [
   {
+    "id": "80013127",
+    "problemId": "13458",
+    "problemTitle": "시험 감독",
+    "language": "C++17",
+    "submissionDate": "2024년 6월 24일 16:47:24",
+    "file_name": "80013127.cc",
+    "tier": "bronze_2"
+  },
+  {
     "id": "77712435",
     "problemId": "20437",
     "problemTitle": "문자열 게임 2",
     "language": "PyPy3",
     "submissionDate": "2024년 5월 1일 16:01:24",
     "file_name": "77712435.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "77504083",
@@ -15,7 +24,7 @@
     "language": "PyPy3",
     "submissionDate": "2024년 4월 26일 18:50:56",
     "file_name": "77504083.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "75890472",
@@ -24,7 +33,7 @@
     "language": "PyPy3",
     "submissionDate": "2024년 3월 28일 18:32:08",
     "file_name": "75890472.py3",
-    "tier": "13"
+    "tier": "gold_3"
   },
   {
     "id": "75816824",
@@ -33,7 +42,7 @@
     "language": "PyPy3",
     "submissionDate": "2024년 3월 27일 17:49:24",
     "file_name": "75816824.py3",
-    "tier": "10"
+    "tier": "silver_1"
   },
   {
     "id": "75739140",
@@ -42,7 +51,7 @@
     "language": "PyPy3",
     "submissionDate": "2024년 3월 26일 17:18:55",
     "file_name": "75739140.py3",
-    "tier": "10"
+    "tier": "silver_1"
   },
   {
     "id": "75732657",
@@ -51,7 +60,7 @@
     "language": "PyPy3",
     "submissionDate": "2024년 3월 26일 16:00:10",
     "file_name": "75732657.py3",
-    "tier": "4"
+    "tier": "bronze_2"
   },
   {
     "id": "75726824",
@@ -60,7 +69,7 @@
     "language": "PyPy3",
     "submissionDate": "2024년 3월 26일 14:51:12",
     "file_name": "75726824.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "75502202",
@@ -69,7 +78,7 @@
     "language": "PyPy3",
     "submissionDate": "2024년 3월 22일 20:50:58",
     "file_name": "75502202.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "75490299",
@@ -78,7 +87,7 @@
     "language": "PyPy3",
     "submissionDate": "2024년 3월 22일 17:41:36",
     "file_name": "75490299.py3",
-    "tier": "13"
+    "tier": "gold_3"
   },
   {
     "id": "71882873",
@@ -87,7 +96,7 @@
     "language": "PyPy3",
     "submissionDate": "2024년 1월 17일 12:45:17",
     "file_name": "71882873.py3",
-    "tier": "8"
+    "tier": "silver_3"
   },
   {
     "id": "71755543",
@@ -96,7 +105,7 @@
     "language": "PyPy3",
     "submissionDate": "2024년 1월 15일 12:55:47",
     "file_name": "71755543.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "69022121",
@@ -105,7 +114,7 @@
     "language": "Python 3",
     "submissionDate": "2023년 11월 8일 19:20:49",
     "file_name": "69022121.py3",
-    "tier": "14"
+    "tier": "gold_2"
   },
   {
     "id": "68993106",
@@ -114,7 +123,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 11월 8일 01:07:46",
     "file_name": "68993106.py3",
-    "tier": "16"
+    "tier": "platinum_5"
   },
   {
     "id": "68991133",
@@ -123,7 +132,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 11월 8일 00:02:49",
     "file_name": "68991133.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "68908109",
@@ -132,7 +141,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 11월 6일 12:05:57",
     "file_name": "68908109.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "68869247",
@@ -141,7 +150,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 11월 5일 13:43:53",
     "file_name": "68869247.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "68851822",
@@ -150,7 +159,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 11월 4일 21:12:35",
     "file_name": "68851822.py3",
-    "tier": "8"
+    "tier": "silver_3"
   },
   {
     "id": "68795660",
@@ -159,7 +168,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 11월 3일 13:13:58",
     "file_name": "68795660.py3",
-    "tier": "13"
+    "tier": "gold_3"
   },
   {
     "id": "68793868",
@@ -168,7 +177,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 11월 3일 12:04:47",
     "file_name": "68793868.py3",
-    "tier": "13"
+    "tier": "gold_3"
   },
   {
     "id": "68751157",
@@ -177,7 +186,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 11월 2일 13:17:16",
     "file_name": "68751157.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "68701702",
@@ -186,7 +195,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 11월 1일 12:21:59",
     "file_name": "68701702.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "63651142",
@@ -195,7 +204,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 7월 18일 00:39:54",
     "file_name": "63651142.py3",
-    "tier": "17"
+    "tier": "platinum_4"
   },
   {
     "id": "63610572",
@@ -204,7 +213,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 7월 17일 13:55:07",
     "file_name": "63610572.py3",
-    "tier": "15"
+    "tier": "gold_1"
   },
   {
     "id": "63602954",
@@ -213,7 +222,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 7월 17일 10:57:17",
     "file_name": "63602954.py3",
-    "tier": "16"
+    "tier": "platinum_5"
   },
   {
     "id": "63587621",
@@ -222,7 +231,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 7월 16일 23:05:00",
     "file_name": "63587621.py3",
-    "tier": "14"
+    "tier": "gold_2"
   },
   {
     "id": "63566968",
@@ -231,7 +240,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 7월 16일 16:04:59",
     "file_name": "63566968.py3",
-    "tier": "14"
+    "tier": "gold_2"
   },
   {
     "id": "63355397",
@@ -240,7 +249,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 7월 12일 14:17:42",
     "file_name": "63355397.py3",
-    "tier": "14"
+    "tier": "gold_2"
   },
   {
     "id": "63352398",
@@ -249,7 +258,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 7월 12일 13:32:01",
     "file_name": "63352398.py3",
-    "tier": "14"
+    "tier": "gold_2"
   },
   {
     "id": "63350397",
@@ -258,7 +267,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 7월 12일 12:42:58",
     "file_name": "63350397.py3",
-    "tier": "15"
+    "tier": "gold_1"
   },
   {
     "id": "63350232",
@@ -267,7 +276,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 7월 12일 12:38:20",
     "file_name": "63350232.py3",
-    "tier": "15"
+    "tier": "gold_1"
   },
   {
     "id": "63346306",
@@ -276,7 +285,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 7월 12일 11:14:10",
     "file_name": "63346306.py3",
-    "tier": "14"
+    "tier": "gold_2"
   },
   {
     "id": "63344430",
@@ -285,7 +294,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 7월 12일 10:45:08",
     "file_name": "63344430.py3",
-    "tier": "15"
+    "tier": "gold_1"
   },
   {
     "id": "63332170",
@@ -294,7 +303,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 7월 12일 00:02:10",
     "file_name": "63332170.py3",
-    "tier": "15"
+    "tier": "gold_1"
   },
   {
     "id": "63328941",
@@ -303,7 +312,7 @@
     "language": "Python 3",
     "submissionDate": "2023년 7월 11일 23:10:26",
     "file_name": "63328941.py3",
-    "tier": "14"
+    "tier": "gold_2"
   },
   {
     "id": "63327709",
@@ -312,7 +321,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 7월 11일 22:50:11",
     "file_name": "63327709.py3",
-    "tier": "14"
+    "tier": "gold_2"
   },
   {
     "id": "63324490",
@@ -321,7 +330,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 7월 11일 22:00:55",
     "file_name": "63324490.py3",
-    "tier": "14"
+    "tier": "gold_2"
   },
   {
     "id": "63323942",
@@ -330,7 +339,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 7월 11일 21:52:25",
     "file_name": "63323942.py3",
-    "tier": "14"
+    "tier": "gold_2"
   },
   {
     "id": "63323884",
@@ -339,7 +348,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 7월 11일 21:51:29",
     "file_name": "63323884.py3",
-    "tier": "14"
+    "tier": "gold_2"
   },
   {
     "id": "63244701",
@@ -348,7 +357,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 7월 10일 17:25:19",
     "file_name": "63244701.py3",
-    "tier": "14"
+    "tier": "gold_2"
   },
   {
     "id": "63238295",
@@ -357,7 +366,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 7월 10일 15:51:06",
     "file_name": "63238295.py3",
-    "tier": "14"
+    "tier": "gold_2"
   },
   {
     "id": "63234114",
@@ -366,7 +375,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 7월 10일 14:49:15",
     "file_name": "63234114.py3",
-    "tier": "14"
+    "tier": "gold_2"
   },
   {
     "id": "63227854",
@@ -375,7 +384,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 7월 10일 12:47:14",
     "file_name": "63227854.py3",
-    "tier": "13"
+    "tier": "gold_3"
   },
   {
     "id": "63223912",
@@ -384,7 +393,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 7월 10일 11:32:15",
     "file_name": "63223912.py3",
-    "tier": "14"
+    "tier": "gold_2"
   },
   {
     "id": "63166168",
@@ -393,7 +402,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 7월 8일 22:59:00",
     "file_name": "63166168.py3",
-    "tier": "13"
+    "tier": "gold_3"
   },
   {
     "id": "63160429",
@@ -402,7 +411,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 7월 8일 20:50:02",
     "file_name": "63160429.py3",
-    "tier": "14"
+    "tier": "gold_2"
   },
   {
     "id": "63158571",
@@ -411,7 +420,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 7월 8일 19:59:12",
     "file_name": "63158571.py3",
-    "tier": "13"
+    "tier": "gold_3"
   },
   {
     "id": "62958770",
@@ -420,7 +429,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 7월 4일 20:22:01",
     "file_name": "62958770.py3",
-    "tier": "13"
+    "tier": "gold_3"
   },
   {
     "id": "62956617",
@@ -429,7 +438,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 7월 4일 19:35:19",
     "file_name": "62956617.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "62951735",
@@ -438,7 +447,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 7월 4일 17:54:58",
     "file_name": "62951735.py3",
-    "tier": "14"
+    "tier": "gold_2"
   },
   {
     "id": "62835937",
@@ -447,7 +456,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 7월 2일 13:13:00",
     "file_name": "62835937.py3",
-    "tier": "8"
+    "tier": "silver_3"
   },
   {
     "id": "62736390",
@@ -456,7 +465,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 6월 30일 00:11:34",
     "file_name": "62736390.py3",
-    "tier": "9"
+    "tier": "silver_2"
   },
   {
     "id": "62734863",
@@ -465,7 +474,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 6월 29일 23:39:45",
     "file_name": "62734863.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "62274836",
@@ -474,7 +483,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 6월 19일 23:51:16",
     "file_name": "62274836.py3",
-    "tier": "15"
+    "tier": "gold_1"
   },
   {
     "id": "62270785",
@@ -483,7 +492,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 6월 19일 22:37:48",
     "file_name": "62270785.py3",
-    "tier": "13"
+    "tier": "gold_3"
   },
   {
     "id": "62263704",
@@ -492,7 +501,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 6월 19일 20:01:18",
     "file_name": "62263704.py3",
-    "tier": "13"
+    "tier": "gold_3"
   },
   {
     "id": "62261188",
@@ -501,7 +510,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 6월 19일 18:56:40",
     "file_name": "62261188.py3",
-    "tier": "13"
+    "tier": "gold_3"
   },
   {
     "id": "62258532",
@@ -510,7 +519,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 6월 19일 17:47:07",
     "file_name": "62258532.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "62257781",
@@ -519,7 +528,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 6월 19일 17:33:57",
     "file_name": "62257781.py3",
-    "tier": "15"
+    "tier": "gold_1"
   },
   {
     "id": "62164279",
@@ -528,7 +537,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 6월 17일 00:48:34",
     "file_name": "62164279.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "62163767",
@@ -537,7 +546,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 6월 17일 00:26:21",
     "file_name": "62163767.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "62163320",
@@ -546,7 +555,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 6월 17일 00:04:13",
     "file_name": "62163320.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "61115306",
@@ -555,7 +564,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 5월 22일 10:27:20",
     "file_name": "61115306.py3",
-    "tier": "13"
+    "tier": "gold_3"
   },
   {
     "id": "60708764",
@@ -564,7 +573,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 5월 13일 13:09:37",
     "file_name": "60708764.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "60708332",
@@ -573,7 +582,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 5월 13일 12:55:37",
     "file_name": "60708332.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "60708098",
@@ -582,7 +591,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 5월 13일 12:48:22",
     "file_name": "60708098.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "60312083",
@@ -591,7 +600,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 5월 4일 23:30:04",
     "file_name": "60312083.py3",
-    "tier": "13"
+    "tier": "gold_3"
   },
   {
     "id": "60302981",
@@ -600,7 +609,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 5월 4일 19:58:10",
     "file_name": "60302981.py3",
-    "tier": "14"
+    "tier": "gold_2"
   },
   {
     "id": "60207535",
@@ -609,7 +618,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 5월 2일 22:43:29",
     "file_name": "60207535.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "60205060",
@@ -618,7 +627,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 5월 2일 22:01:28",
     "file_name": "60205060.py3",
-    "tier": "13"
+    "tier": "gold_3"
   },
   {
     "id": "60200494",
@@ -627,7 +636,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 5월 2일 20:40:51",
     "file_name": "60200494.py3",
-    "tier": "13"
+    "tier": "gold_3"
   },
   {
     "id": "60198756",
@@ -636,7 +645,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 5월 2일 20:07:08",
     "file_name": "60198756.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "60107905",
@@ -645,7 +654,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 4월 30일 23:05:20",
     "file_name": "60107905.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "60106853",
@@ -654,7 +663,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 4월 30일 22:46:33",
     "file_name": "60106853.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "60105982",
@@ -663,7 +672,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 4월 30일 22:28:54",
     "file_name": "60105982.py3",
-    "tier": "15"
+    "tier": "gold_1"
   },
   {
     "id": "60104364",
@@ -672,7 +681,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 4월 30일 21:54:34",
     "file_name": "60104364.py3",
-    "tier": "14"
+    "tier": "gold_2"
   },
   {
     "id": "60061532",
@@ -681,7 +690,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 4월 29일 21:57:29",
     "file_name": "60061532.py3",
-    "tier": "13"
+    "tier": "gold_3"
   },
   {
     "id": "60060175",
@@ -690,7 +699,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 4월 29일 21:22:41",
     "file_name": "60060175.py3",
-    "tier": "13"
+    "tier": "gold_3"
   },
   {
     "id": "60060073",
@@ -699,7 +708,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 4월 29일 21:19:43",
     "file_name": "60060073.py3",
-    "tier": "14"
+    "tier": "gold_2"
   },
   {
     "id": "60058597",
@@ -708,7 +717,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 4월 29일 20:36:26",
     "file_name": "60058597.py3",
-    "tier": "13"
+    "tier": "gold_3"
   },
   {
     "id": "60046863",
@@ -717,7 +726,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 4월 29일 15:45:38",
     "file_name": "60046863.py3",
-    "tier": "13"
+    "tier": "gold_3"
   },
   {
     "id": "59988280",
@@ -726,7 +735,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 4월 28일 01:20:21",
     "file_name": "59988280.py3",
-    "tier": "14"
+    "tier": "gold_2"
   },
   {
     "id": "59984408",
@@ -735,7 +744,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 4월 27일 23:37:15",
     "file_name": "59984408.py3",
-    "tier": "15"
+    "tier": "gold_1"
   },
   {
     "id": "59973576",
@@ -744,7 +753,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 4월 27일 19:54:55",
     "file_name": "59973576.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "59938986",
@@ -753,7 +762,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 4월 27일 00:05:26",
     "file_name": "59938986.py3",
-    "tier": "10"
+    "tier": "silver_1"
   },
   {
     "id": "59938856",
@@ -762,7 +771,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 4월 27일 00:02:16",
     "file_name": "59938856.py3",
-    "tier": "13"
+    "tier": "gold_3"
   },
   {
     "id": "59938793",
@@ -771,7 +780,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 4월 27일 00:00:50",
     "file_name": "59938793.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "59937428",
@@ -780,7 +789,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 4월 26일 23:33:40",
     "file_name": "59937428.py3",
-    "tier": "13"
+    "tier": "gold_3"
   },
   {
     "id": "59936021",
@@ -789,7 +798,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 4월 26일 23:04:56",
     "file_name": "59936021.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "59324990",
@@ -798,7 +807,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 4월 13일 21:11:58",
     "file_name": "59324990.py3",
-    "tier": "8"
+    "tier": "silver_3"
   },
   {
     "id": "58001919",
@@ -807,7 +816,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 3월 23일 20:29:15",
     "file_name": "58001919.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "57548579",
@@ -816,7 +825,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 3월 16일 20:46:19",
     "file_name": "57548579.py3",
-    "tier": "13"
+    "tier": "gold_3"
   },
   {
     "id": "57496220",
@@ -825,7 +834,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 3월 15일 23:25:24",
     "file_name": "57496220.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "57493038",
@@ -834,7 +843,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 3월 15일 22:42:10",
     "file_name": "57493038.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "57275864",
@@ -843,7 +852,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 3월 12일 12:26:39",
     "file_name": "57275864.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "57217347",
@@ -852,7 +861,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 3월 11일 00:36:53",
     "file_name": "57217347.py3",
-    "tier": "8"
+    "tier": "silver_3"
   },
   {
     "id": "57159538",
@@ -861,7 +870,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 3월 9일 23:20:32",
     "file_name": "57159538.py3",
-    "tier": "3"
+    "tier": "bronze_3"
   },
   {
     "id": "57099607",
@@ -870,7 +879,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 3월 9일 00:01:08",
     "file_name": "57099607.py3",
-    "tier": "8"
+    "tier": "silver_3"
   },
   {
     "id": "56990202",
@@ -879,7 +888,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 3월 7일 13:05:52",
     "file_name": "56990202.py3",
-    "tier": "10"
+    "tier": "silver_1"
   },
   {
     "id": "56990077",
@@ -888,7 +897,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 3월 7일 13:02:28",
     "file_name": "56990077.py3",
-    "tier": "10"
+    "tier": "silver_1"
   },
   {
     "id": "56956606",
@@ -897,7 +906,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 3월 6일 20:46:56",
     "file_name": "56956606.py3",
-    "tier": "3"
+    "tier": "bronze_3"
   },
   {
     "id": "56905781",
@@ -906,7 +915,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 3월 5일 23:05:41",
     "file_name": "56905781.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "56901589",
@@ -915,7 +924,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 3월 5일 22:05:55",
     "file_name": "56901589.py3",
-    "tier": "13"
+    "tier": "gold_3"
   },
   {
     "id": "56887185",
@@ -924,7 +933,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 3월 5일 17:48:25",
     "file_name": "56887185.py3",
-    "tier": "13"
+    "tier": "gold_3"
   },
   {
     "id": "56838992",
@@ -933,7 +942,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 3월 4일 18:14:52",
     "file_name": "56838992.py3",
-    "tier": "9"
+    "tier": "silver_2"
   },
   {
     "id": "56837188",
@@ -942,7 +951,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 3월 4일 17:41:22",
     "file_name": "56837188.py3",
-    "tier": "9"
+    "tier": "silver_2"
   },
   {
     "id": "56831664",
@@ -951,7 +960,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 3월 4일 16:16:51",
     "file_name": "56831664.py3",
-    "tier": "8"
+    "tier": "silver_3"
   },
   {
     "id": "56829950",
@@ -960,7 +969,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 3월 4일 15:51:23",
     "file_name": "56829950.py3",
-    "tier": "5"
+    "tier": "bronze_1"
   },
   {
     "id": "56829575",
@@ -969,7 +978,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 3월 4일 15:45:58",
     "file_name": "56829575.py3",
-    "tier": "6"
+    "tier": "silver_5"
   },
   {
     "id": "56829361",
@@ -978,7 +987,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 3월 4일 15:42:41",
     "file_name": "56829361.py3",
-    "tier": "3"
+    "tier": "bronze_3"
   },
   {
     "id": "56828964",
@@ -987,7 +996,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 3월 4일 15:36:38",
     "file_name": "56828964.py3",
-    "tier": "1"
+    "tier": "bronze_5"
   },
   {
     "id": "56828875",
@@ -996,7 +1005,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 3월 4일 15:35:17",
     "file_name": "56828875.py3",
-    "tier": "1"
+    "tier": "bronze_5"
   },
   {
     "id": "56828713",
@@ -1005,7 +1014,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 3월 4일 15:33:00",
     "file_name": "56828713.py3",
-    "tier": "2"
+    "tier": "bronze_4"
   },
   {
     "id": "56828163",
@@ -1014,7 +1023,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 3월 4일 15:24:40",
     "file_name": "56828163.py3",
-    "tier": "5"
+    "tier": "bronze_1"
   },
   {
     "id": "56827889",
@@ -1023,7 +1032,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 3월 4일 15:20:48",
     "file_name": "56827889.py3",
-    "tier": "5"
+    "tier": "bronze_1"
   },
   {
     "id": "56827249",
@@ -1032,7 +1041,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 3월 4일 15:12:15",
     "file_name": "56827249.py3",
-    "tier": "4"
+    "tier": "bronze_2"
   },
   {
     "id": "56730996",
@@ -1041,7 +1050,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 3월 2일 20:32:28",
     "file_name": "56730996.py3",
-    "tier": "7"
+    "tier": "silver_4"
   },
   {
     "id": "53579746",
@@ -1050,7 +1059,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 1월 5일 22:18:25",
     "file_name": "53579746.py3",
-    "tier": "13"
+    "tier": "gold_3"
   },
   {
     "id": "53556353",
@@ -1059,7 +1068,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 1월 5일 16:03:07",
     "file_name": "53556353.py3",
-    "tier": "13"
+    "tier": "gold_3"
   },
   {
     "id": "53462636",
@@ -1068,7 +1077,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 1월 3일 22:45:57",
     "file_name": "53462636.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "53459855",
@@ -1077,7 +1086,7 @@
     "language": "PyPy3",
     "submissionDate": "2023년 1월 3일 22:05:44",
     "file_name": "53459855.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "50396165",
@@ -1086,7 +1095,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 10월 11일 17:44:52",
     "file_name": "50396165.java",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "50224674",
@@ -1095,7 +1104,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 10월 7일 16:54:38",
     "file_name": "50224674.java",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "50206630",
@@ -1104,7 +1113,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 10월 7일 10:19:33",
     "file_name": "50206630.java",
-    "tier": "13"
+    "tier": "gold_3"
   },
   {
     "id": "50174794",
@@ -1113,7 +1122,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 10월 6일 17:08:46",
     "file_name": "50174794.java",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "50114966",
@@ -1122,7 +1131,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 10월 5일 14:40:06",
     "file_name": "50114966.java",
-    "tier": "15"
+    "tier": "gold_1"
   },
   {
     "id": "50103099",
@@ -1131,7 +1140,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 10월 5일 10:26:05",
     "file_name": "50103099.java",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "50072525",
@@ -1140,7 +1149,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 10월 4일 17:46:12",
     "file_name": "50072525.java",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "49884110",
@@ -1149,7 +1158,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 9월 30일 10:28:19",
     "file_name": "49884110.java",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "49883686",
@@ -1158,7 +1167,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 9월 30일 10:16:48",
     "file_name": "49883686.java",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "49857120",
@@ -1167,7 +1176,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 9월 29일 17:51:54",
     "file_name": "49857120.java",
-    "tier": "10"
+    "tier": "silver_1"
   },
   {
     "id": "49360706",
@@ -1176,7 +1185,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 9월 19일 17:24:12",
     "file_name": "49360706.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "49358211",
@@ -1185,7 +1194,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 9월 19일 16:43:54",
     "file_name": "49358211.py3",
-    "tier": "10"
+    "tier": "silver_1"
   },
   {
     "id": "49356217",
@@ -1194,7 +1203,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 9월 19일 16:14:23",
     "file_name": "49356217.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "49348678",
@@ -1203,7 +1212,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 9월 19일 14:18:36",
     "file_name": "49348678.py3",
-    "tier": "9"
+    "tier": "silver_2"
   },
   {
     "id": "49346579",
@@ -1212,7 +1221,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 9월 19일 13:37:35",
     "file_name": "49346579.py3",
-    "tier": "10"
+    "tier": "silver_1"
   },
   {
     "id": "49344039",
@@ -1221,7 +1230,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 9월 19일 12:32:56",
     "file_name": "49344039.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "48466970",
@@ -1230,7 +1239,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 8월 29일 21:44:48",
     "file_name": "48466970.py3",
-    "tier": "14"
+    "tier": "gold_2"
   },
   {
     "id": "48454718",
@@ -1239,7 +1248,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 8월 29일 17:27:15",
     "file_name": "48454718.py3",
-    "tier": "9"
+    "tier": "silver_2"
   },
   {
     "id": "48436999",
@@ -1248,7 +1257,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 8월 29일 10:46:04",
     "file_name": "48436999.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "48297548",
@@ -1257,7 +1266,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 8월 25일 22:40:53",
     "file_name": "48297548.java",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "48282972",
@@ -1266,7 +1275,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 8월 25일 17:46:52",
     "file_name": "48282972.py3",
-    "tier": "14"
+    "tier": "gold_2"
   },
   {
     "id": "48281572",
@@ -1275,7 +1284,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 8월 25일 17:28:34",
     "file_name": "48281572.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "48277215",
@@ -1284,7 +1293,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 8월 25일 16:25:42",
     "file_name": "48277215.py3",
-    "tier": "14"
+    "tier": "gold_2"
   },
   {
     "id": "48266261",
@@ -1293,7 +1302,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 8월 25일 13:06:11",
     "file_name": "48266261.java",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "48261863",
@@ -1302,7 +1311,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 8월 25일 10:53:15",
     "file_name": "48261863.py3",
-    "tier": "14"
+    "tier": "gold_2"
   },
   {
     "id": "48215490",
@@ -1311,7 +1320,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 8월 24일 14:04:50",
     "file_name": "48215490.java",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "48179210",
@@ -1320,7 +1329,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 8월 23일 18:48:36",
     "file_name": "48179210.py3",
-    "tier": "9"
+    "tier": "silver_2"
   },
   {
     "id": "48179058",
@@ -1329,7 +1338,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 8월 23일 18:45:12",
     "file_name": "48179058.py3",
-    "tier": "9"
+    "tier": "silver_2"
   },
   {
     "id": "48173248",
@@ -1338,7 +1347,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 8월 23일 17:03:14",
     "file_name": "48173248.java",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "48172057",
@@ -1347,7 +1356,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 8월 23일 16:47:18",
     "file_name": "48172057.java",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "48162942",
@@ -1356,7 +1365,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 8월 23일 14:37:48",
     "file_name": "48162942.java",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "48153949",
@@ -1365,7 +1374,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 8월 23일 11:22:28",
     "file_name": "48153949.java",
-    "tier": "13"
+    "tier": "gold_3"
   },
   {
     "id": "48118689",
@@ -1374,7 +1383,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 8월 22일 17:21:43",
     "file_name": "48118689.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "48111694",
@@ -1383,7 +1392,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 8월 22일 15:28:24",
     "file_name": "48111694.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "48013143",
@@ -1392,7 +1401,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 8월 20일 13:35:49",
     "file_name": "48013143.java",
-    "tier": "10"
+    "tier": "silver_1"
   },
   {
     "id": "47919482",
@@ -1401,7 +1410,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 8월 18일 16:03:25",
     "file_name": "47919482.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "47919242",
@@ -1410,7 +1419,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 8월 18일 15:59:58",
     "file_name": "47919242.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "47916060",
@@ -1419,7 +1428,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 8월 18일 15:12:27",
     "file_name": "47916060.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "47911454",
@@ -1428,7 +1437,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 8월 18일 14:01:10",
     "file_name": "47911454.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "47911439",
@@ -1437,7 +1446,7 @@
     "language": "Python 3",
     "submissionDate": "2022년 8월 18일 14:00:54",
     "file_name": "47911439.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "47886593",
@@ -1446,7 +1455,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 8월 17일 22:52:18",
     "file_name": "47886593.java",
-    "tier": "10"
+    "tier": "silver_1"
   },
   {
     "id": "47867489",
@@ -1455,7 +1464,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 8월 17일 17:12:30",
     "file_name": "47867489.java",
-    "tier": "9"
+    "tier": "silver_2"
   },
   {
     "id": "47863978",
@@ -1464,7 +1473,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 8월 17일 16:26:49",
     "file_name": "47863978.java",
-    "tier": "13"
+    "tier": "gold_3"
   },
   {
     "id": "47855081",
@@ -1473,7 +1482,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 8월 17일 14:27:16",
     "file_name": "47855081.py3",
-    "tier": "10"
+    "tier": "silver_1"
   },
   {
     "id": "47842417",
@@ -1482,7 +1491,7 @@
     "language": "Python 3",
     "submissionDate": "2022년 8월 17일 09:52:38",
     "file_name": "47842417.py3",
-    "tier": "9"
+    "tier": "silver_2"
   },
   {
     "id": "47808739",
@@ -1491,7 +1500,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 8월 16일 17:24:43",
     "file_name": "47808739.java",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "47790584",
@@ -1500,7 +1509,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 8월 16일 12:47:20",
     "file_name": "47790584.java",
-    "tier": "7"
+    "tier": "silver_4"
   },
   {
     "id": "47768003",
@@ -1509,7 +1518,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 8월 15일 22:23:07",
     "file_name": "47768003.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "47742641",
@@ -1518,7 +1527,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 8월 15일 15:07:34",
     "file_name": "47742641.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "47604521",
@@ -1527,7 +1536,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 8월 12일 15:01:00",
     "file_name": "47604521.java",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "47598595",
@@ -1536,7 +1545,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 8월 12일 13:30:07",
     "file_name": "47598595.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "47594009",
@@ -1545,7 +1554,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 8월 12일 11:33:48",
     "file_name": "47594009.py3",
-    "tier": "9"
+    "tier": "silver_2"
   },
   {
     "id": "47559698",
@@ -1554,7 +1563,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 8월 11일 18:18:31",
     "file_name": "47559698.java",
-    "tier": "4"
+    "tier": "bronze_2"
   },
   {
     "id": "47556729",
@@ -1563,7 +1572,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 8월 11일 17:35:12",
     "file_name": "47556729.java",
-    "tier": "9"
+    "tier": "silver_2"
   },
   {
     "id": "47547367",
@@ -1572,7 +1581,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 8월 11일 15:34:01",
     "file_name": "47547367.py3",
-    "tier": "13"
+    "tier": "gold_3"
   },
   {
     "id": "47502989",
@@ -1581,7 +1590,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 8월 10일 18:40:39",
     "file_name": "47502989.java",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "47489601",
@@ -1590,7 +1599,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 8월 10일 15:32:11",
     "file_name": "47489601.java",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "47486880",
@@ -1599,7 +1608,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 8월 10일 14:57:05",
     "file_name": "47486880.java",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "47471278",
@@ -1608,7 +1617,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 8월 10일 09:44:30",
     "file_name": "47471278.java",
-    "tier": "5"
+    "tier": "bronze_1"
   },
   {
     "id": "47439352",
@@ -1617,7 +1626,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 8월 9일 17:45:59",
     "file_name": "47439352.java",
-    "tier": "6"
+    "tier": "silver_5"
   },
   {
     "id": "47380546",
@@ -1626,7 +1635,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 8월 8일 17:30:53",
     "file_name": "47380546.java",
-    "tier": "7"
+    "tier": "silver_4"
   },
   {
     "id": "47378159",
@@ -1635,7 +1644,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 8월 8일 16:58:46",
     "file_name": "47378159.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "47372718",
@@ -1644,7 +1653,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 8월 8일 15:46:48",
     "file_name": "47372718.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "47366974",
@@ -1653,7 +1662,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 8월 8일 14:19:32",
     "file_name": "47366974.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "47230074",
@@ -1662,7 +1671,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 8월 5일 14:35:26",
     "file_name": "47230074.java",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "47218559",
@@ -1671,7 +1680,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 8월 5일 10:29:32",
     "file_name": "47218559.java",
-    "tier": "9"
+    "tier": "silver_2"
   },
   {
     "id": "47216940",
@@ -1680,7 +1689,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 8월 5일 09:40:26",
     "file_name": "47216940.java",
-    "tier": "7"
+    "tier": "silver_4"
   },
   {
     "id": "47197404",
@@ -1689,7 +1698,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 8월 4일 20:55:05",
     "file_name": "47197404.java",
-    "tier": "7"
+    "tier": "silver_4"
   },
   {
     "id": "47117915",
@@ -1698,7 +1707,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 8월 3일 15:09:39",
     "file_name": "47117915.java",
-    "tier": "8"
+    "tier": "silver_3"
   },
   {
     "id": "47116472",
@@ -1707,7 +1716,7 @@
     "language": "Python 3",
     "submissionDate": "2022년 8월 3일 14:48:27",
     "file_name": "47116472.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "47116363",
@@ -1716,7 +1725,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 8월 3일 14:46:51",
     "file_name": "47116363.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "47116350",
@@ -1725,7 +1734,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 8월 3일 14:46:42",
     "file_name": "47116350.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "47100883",
@@ -1734,7 +1743,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 8월 3일 09:35:06",
     "file_name": "47100883.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "47040711",
@@ -1743,7 +1752,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 8월 2일 09:41:51",
     "file_name": "47040711.java",
-    "tier": "6"
+    "tier": "silver_5"
   },
   {
     "id": "46622546",
@@ -1752,7 +1761,7 @@
     "language": "node.js",
     "submissionDate": "2022년 7월 25일 16:12:10",
     "file_name": "46622546.js",
-    "tier": "10"
+    "tier": "silver_1"
   },
   {
     "id": "46619807",
@@ -1761,7 +1770,7 @@
     "language": "node.js",
     "submissionDate": "2022년 7월 25일 15:39:10",
     "file_name": "46619807.js",
-    "tier": "10"
+    "tier": "silver_1"
   },
   {
     "id": "46610057",
@@ -1770,7 +1779,7 @@
     "language": "node.js",
     "submissionDate": "2022년 7월 25일 13:24:44",
     "file_name": "46610057.js",
-    "tier": "10"
+    "tier": "silver_1"
   },
   {
     "id": "46606260",
@@ -1779,7 +1788,7 @@
     "language": "node.js",
     "submissionDate": "2022년 7월 25일 11:54:23",
     "file_name": "46606260.js",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "46307470",
@@ -1788,7 +1797,7 @@
     "language": "Java 11",
     "submissionDate": "2022년 7월 19일 17:36:39",
     "file_name": "46307470.java",
-    "tier": "7"
+    "tier": "silver_4"
   },
   {
     "id": "46156816",
@@ -1797,7 +1806,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 7월 16일 19:45:00",
     "file_name": "46156816.py3",
-    "tier": "9"
+    "tier": "silver_2"
   },
   {
     "id": "46155137",
@@ -1806,7 +1815,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 7월 16일 19:03:30",
     "file_name": "46155137.py3",
-    "tier": "9"
+    "tier": "silver_2"
   },
   {
     "id": "46153308",
@@ -1815,7 +1824,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 7월 16일 18:19:24",
     "file_name": "46153308.py3",
-    "tier": "8"
+    "tier": "silver_3"
   },
   {
     "id": "44775057",
@@ -1824,7 +1833,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 6월 20일 23:08:01",
     "file_name": "44775057.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "44567103",
@@ -1833,7 +1842,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 6월 15일 14:07:01",
     "file_name": "44567103.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "44564600",
@@ -1842,7 +1851,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 6월 15일 12:57:27",
     "file_name": "44564600.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "44542339",
@@ -1851,7 +1860,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 6월 14일 20:24:44",
     "file_name": "44542339.py3",
-    "tier": "10"
+    "tier": "silver_1"
   },
   {
     "id": "44539916",
@@ -1860,7 +1869,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 6월 14일 19:20:44",
     "file_name": "44539916.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "44536639",
@@ -1869,7 +1878,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 6월 14일 17:45:32",
     "file_name": "44536639.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "44524572",
@@ -1878,7 +1887,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 6월 14일 13:03:11",
     "file_name": "44524572.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "44085717",
@@ -1887,7 +1896,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 6월 2일 19:21:07",
     "file_name": "44085717.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "44083188",
@@ -1896,7 +1905,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 6월 2일 18:08:46",
     "file_name": "44083188.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "43868228",
@@ -1905,7 +1914,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 27일 23:36:31",
     "file_name": "43868228.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "43841221",
@@ -1914,7 +1923,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 27일 11:57:31",
     "file_name": "43841221.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "43831132",
@@ -1923,7 +1932,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 27일 00:01:14",
     "file_name": "43831132.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "43819929",
@@ -1932,7 +1941,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 26일 19:44:23",
     "file_name": "43819929.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "43816853",
@@ -1941,7 +1950,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 26일 18:19:14",
     "file_name": "43816853.py3",
-    "tier": "10"
+    "tier": "silver_1"
   },
   {
     "id": "43806276",
@@ -1950,7 +1959,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 26일 14:36:10",
     "file_name": "43806276.py3",
-    "tier": "9"
+    "tier": "silver_2"
   },
   {
     "id": "43805450",
@@ -1959,7 +1968,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 26일 14:17:03",
     "file_name": "43805450.py3",
-    "tier": "10"
+    "tier": "silver_1"
   },
   {
     "id": "43804555",
@@ -1968,7 +1977,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 26일 13:55:44",
     "file_name": "43804555.py3",
-    "tier": "10"
+    "tier": "silver_1"
   },
   {
     "id": "43802951",
@@ -1977,7 +1986,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 26일 13:11:34",
     "file_name": "43802951.py3",
-    "tier": "8"
+    "tier": "silver_3"
   },
   {
     "id": "43801915",
@@ -1986,7 +1995,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 26일 12:37:02",
     "file_name": "43801915.py3",
-    "tier": "10"
+    "tier": "silver_1"
   },
   {
     "id": "43799039",
@@ -1995,7 +2004,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 26일 11:11:47",
     "file_name": "43799039.py3",
-    "tier": "9"
+    "tier": "silver_2"
   },
   {
     "id": "43574315",
@@ -2004,7 +2013,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 20일 18:23:12",
     "file_name": "43574315.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "43550167",
@@ -2013,7 +2022,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 20일 02:07:38",
     "file_name": "43550167.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "43549260",
@@ -2022,7 +2031,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 20일 01:24:17",
     "file_name": "43549260.py3",
-    "tier": "10"
+    "tier": "silver_1"
   },
   {
     "id": "43547444",
@@ -2031,7 +2040,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 20일 00:17:26",
     "file_name": "43547444.py3",
-    "tier": "10"
+    "tier": "silver_1"
   },
   {
     "id": "43533761",
@@ -2040,7 +2049,7 @@
     "language": "Python 3",
     "submissionDate": "2022년 5월 19일 19:27:28",
     "file_name": "43533761.py3",
-    "tier": "9"
+    "tier": "silver_2"
   },
   {
     "id": "43513925",
@@ -2049,7 +2058,7 @@
     "language": "Python 3",
     "submissionDate": "2022년 5월 19일 12:36:35",
     "file_name": "43513925.py3",
-    "tier": "9"
+    "tier": "silver_2"
   },
   {
     "id": "43498258",
@@ -2058,7 +2067,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 18일 23:24:00",
     "file_name": "43498258.py3",
-    "tier": "10"
+    "tier": "silver_1"
   },
   {
     "id": "43405102",
@@ -2067,7 +2076,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 17일 01:36:56",
     "file_name": "43405102.py3",
-    "tier": "10"
+    "tier": "silver_1"
   },
   {
     "id": "43404600",
@@ -2076,7 +2085,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 17일 01:18:02",
     "file_name": "43404600.py3",
-    "tier": "10"
+    "tier": "silver_1"
   },
   {
     "id": "43347415",
@@ -2085,7 +2094,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 15일 23:04:48",
     "file_name": "43347415.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "43344410",
@@ -2094,7 +2103,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 15일 22:08:55",
     "file_name": "43344410.py3",
-    "tier": "10"
+    "tier": "silver_1"
   },
   {
     "id": "43343123",
@@ -2103,7 +2112,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 15일 21:43:33",
     "file_name": "43343123.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "43342234",
@@ -2112,7 +2121,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 15일 21:22:10",
     "file_name": "43342234.py3",
-    "tier": "9"
+    "tier": "silver_2"
   },
   {
     "id": "43338304",
@@ -2121,7 +2130,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 15일 19:51:55",
     "file_name": "43338304.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "43329105",
@@ -2130,7 +2139,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 15일 16:21:32",
     "file_name": "43329105.py3",
-    "tier": "9"
+    "tier": "silver_2"
   },
   {
     "id": "43326865",
@@ -2139,7 +2148,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 15일 15:36:57",
     "file_name": "43326865.py3",
-    "tier": "9"
+    "tier": "silver_2"
   },
   {
     "id": "43237071",
@@ -2148,7 +2157,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 13일 14:16:37",
     "file_name": "43237071.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "43234565",
@@ -2157,7 +2166,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 13일 13:13:10",
     "file_name": "43234565.py3",
-    "tier": "13"
+    "tier": "gold_3"
   },
   {
     "id": "43231841",
@@ -2166,7 +2175,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 13일 11:40:13",
     "file_name": "43231841.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "43224535",
@@ -2175,7 +2184,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 13일 01:54:50",
     "file_name": "43224535.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "43221257",
@@ -2184,7 +2193,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 13일 00:09:25",
     "file_name": "43221257.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "43186523",
@@ -2193,7 +2202,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 12일 13:36:41",
     "file_name": "43186523.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "43185657",
@@ -2202,7 +2211,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 12일 13:16:25",
     "file_name": "43185657.py3",
-    "tier": "10"
+    "tier": "silver_1"
   },
   {
     "id": "43182816",
@@ -2211,7 +2220,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 12일 11:46:13",
     "file_name": "43182816.py3",
-    "tier": "8"
+    "tier": "silver_3"
   },
   {
     "id": "43174214",
@@ -2220,7 +2229,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 12일 02:23:54",
     "file_name": "43174214.py3",
-    "tier": "7"
+    "tier": "silver_4"
   },
   {
     "id": "43170636",
@@ -2229,7 +2238,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 12일 00:26:34",
     "file_name": "43170636.py3",
-    "tier": "5"
+    "tier": "bronze_1"
   },
   {
     "id": "43170163",
@@ -2238,7 +2247,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 12일 00:15:34",
     "file_name": "43170163.py3",
-    "tier": "6"
+    "tier": "silver_5"
   },
   {
     "id": "43139979",
@@ -2247,7 +2256,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 11일 15:14:59",
     "file_name": "43139979.py3",
-    "tier": "3"
+    "tier": "bronze_3"
   },
   {
     "id": "43137416",
@@ -2256,7 +2265,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 11일 14:36:36",
     "file_name": "43137416.py3",
-    "tier": "7"
+    "tier": "silver_4"
   },
   {
     "id": "43136112",
@@ -2265,7 +2274,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 11일 14:15:48",
     "file_name": "43136112.py3",
-    "tier": "4"
+    "tier": "bronze_2"
   },
   {
     "id": "43135724",
@@ -2274,7 +2283,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 11일 14:09:24",
     "file_name": "43135724.py3",
-    "tier": "9"
+    "tier": "silver_2"
   },
   {
     "id": "43135085",
@@ -2283,7 +2292,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 11일 13:59:22",
     "file_name": "43135085.py3",
-    "tier": "7"
+    "tier": "silver_4"
   },
   {
     "id": "43132845",
@@ -2292,7 +2301,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 11일 13:20:10",
     "file_name": "43132845.py3",
-    "tier": "7"
+    "tier": "silver_4"
   },
   {
     "id": "43132399",
@@ -2301,7 +2310,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 11일 13:08:47",
     "file_name": "43132399.py3",
-    "tier": "9"
+    "tier": "silver_2"
   },
   {
     "id": "43131196",
@@ -2310,7 +2319,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 11일 12:33:23",
     "file_name": "43131196.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "43129890",
@@ -2319,7 +2328,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 11일 11:51:51",
     "file_name": "43129890.py3",
-    "tier": "6"
+    "tier": "silver_5"
   },
   {
     "id": "43110044",
@@ -2328,7 +2337,7 @@
     "language": "Python 3",
     "submissionDate": "2022년 5월 10일 22:12:19",
     "file_name": "43110044.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "43109276",
@@ -2337,7 +2346,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 10일 21:58:22",
     "file_name": "43109276.py3",
-    "tier": "7"
+    "tier": "silver_4"
   },
   {
     "id": "43066423",
@@ -2346,7 +2355,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 10일 00:29:43",
     "file_name": "43066423.py3",
-    "tier": "10"
+    "tier": "silver_1"
   },
   {
     "id": "43064993",
@@ -2355,7 +2364,7 @@
     "language": "Python 3",
     "submissionDate": "2022년 5월 10일 00:03:16",
     "file_name": "43064993.py3",
-    "tier": "10"
+    "tier": "silver_1"
   },
   {
     "id": "42957314",
@@ -2364,7 +2373,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 5월 7일 16:07:18",
     "file_name": "42957314.py3",
-    "tier": "10"
+    "tier": "silver_1"
   },
   {
     "id": "42631858",
@@ -2373,7 +2382,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 4월 29일 21:41:31",
     "file_name": "42631858.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "42631773",
@@ -2382,7 +2391,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 4월 29일 21:39:38",
     "file_name": "42631773.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "42434346",
@@ -2391,7 +2400,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 4월 25일 19:13:41",
     "file_name": "42434346.py3",
-    "tier": "10"
+    "tier": "silver_1"
   },
   {
     "id": "42434258",
@@ -2400,7 +2409,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 4월 25일 19:11:06",
     "file_name": "42434258.py3",
-    "tier": "10"
+    "tier": "silver_1"
   },
   {
     "id": "42429668",
@@ -2409,7 +2418,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 4월 25일 17:26:18",
     "file_name": "42429668.py3",
-    "tier": "12"
+    "tier": "gold_4"
   },
   {
     "id": "42414767",
@@ -2418,7 +2427,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 4월 25일 12:12:01",
     "file_name": "42414767.py3",
-    "tier": "7"
+    "tier": "silver_4"
   },
   {
     "id": "42230897",
@@ -2427,7 +2436,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 4월 20일 20:06:37",
     "file_name": "42230897.py3",
-    "tier": "10"
+    "tier": "silver_1"
   },
   {
     "id": "42228921",
@@ -2436,7 +2445,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 4월 20일 19:15:52",
     "file_name": "42228921.py3",
-    "tier": "10"
+    "tier": "silver_1"
   },
   {
     "id": "42227481",
@@ -2445,7 +2454,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 4월 20일 18:36:22",
     "file_name": "42227481.py3",
-    "tier": "10"
+    "tier": "silver_1"
   },
   {
     "id": "42216705",
@@ -2454,7 +2463,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 4월 20일 15:12:47",
     "file_name": "42216705.py3",
-    "tier": "9"
+    "tier": "silver_2"
   },
   {
     "id": "42212673",
@@ -2463,7 +2472,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 4월 20일 13:57:07",
     "file_name": "42212673.py3",
-    "tier": "8"
+    "tier": "silver_3"
   },
   {
     "id": "42211426",
@@ -2472,7 +2481,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 4월 20일 13:23:27",
     "file_name": "42211426.py3",
-    "tier": "10"
+    "tier": "silver_1"
   },
   {
     "id": "42185413",
@@ -2481,7 +2490,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 4월 19일 20:22:12",
     "file_name": "42185413.py3",
-    "tier": "9"
+    "tier": "silver_2"
   },
   {
     "id": "42009843",
@@ -2490,7 +2499,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 4월 15일 15:58:29",
     "file_name": "42009843.py3",
-    "tier": "7"
+    "tier": "silver_4"
   },
   {
     "id": "42009824",
@@ -2499,7 +2508,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 4월 15일 15:58:14",
     "file_name": "42009824.py3",
-    "tier": "7"
+    "tier": "silver_4"
   },
   {
     "id": "42008382",
@@ -2508,7 +2517,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 4월 15일 15:33:14",
     "file_name": "42008382.py3",
-    "tier": "8"
+    "tier": "silver_3"
   },
   {
     "id": "42004838",
@@ -2517,7 +2526,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 4월 15일 14:23:18",
     "file_name": "42004838.py3",
-    "tier": "7"
+    "tier": "silver_4"
   },
   {
     "id": "42003298",
@@ -2526,7 +2535,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 4월 15일 13:45:32",
     "file_name": "42003298.py3",
-    "tier": "9"
+    "tier": "silver_2"
   },
   {
     "id": "42003190",
@@ -2535,7 +2544,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 4월 15일 13:43:20",
     "file_name": "42003190.py3",
-    "tier": "9"
+    "tier": "silver_2"
   },
   {
     "id": "41921272",
@@ -2544,7 +2553,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 4월 13일 17:13:19",
     "file_name": "41921272.py3",
-    "tier": "4"
+    "tier": "bronze_2"
   },
   {
     "id": "41919943",
@@ -2553,7 +2562,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 4월 13일 16:51:56",
     "file_name": "41919943.py3",
-    "tier": "7"
+    "tier": "silver_4"
   },
   {
     "id": "41918369",
@@ -2562,7 +2571,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 4월 13일 16:28:46",
     "file_name": "41918369.py3",
-    "tier": "4"
+    "tier": "bronze_2"
   },
   {
     "id": "41917746",
@@ -2571,7 +2580,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 4월 13일 16:19:16",
     "file_name": "41917746.py3",
-    "tier": "6"
+    "tier": "silver_5"
   },
   {
     "id": "41916538",
@@ -2580,7 +2589,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 4월 13일 15:59:13",
     "file_name": "41916538.py3",
-    "tier": "6"
+    "tier": "silver_5"
   },
   {
     "id": "40110290",
@@ -2589,7 +2598,7 @@
     "language": "Python 3",
     "submissionDate": "2022년 3월 8일 14:19:06",
     "file_name": "40110290.py3",
-    "tier": "7"
+    "tier": "silver_4"
   },
   {
     "id": "40106576",
@@ -2598,7 +2607,7 @@
     "language": "Python 3",
     "submissionDate": "2022년 3월 8일 13:00:16",
     "file_name": "40106576.py3",
-    "tier": "7"
+    "tier": "silver_4"
   },
   {
     "id": "40105148",
@@ -2607,7 +2616,7 @@
     "language": "Python 3",
     "submissionDate": "2022년 3월 8일 12:20:48",
     "file_name": "40105148.py3",
-    "tier": "8"
+    "tier": "silver_3"
   },
   {
     "id": "40034968",
@@ -2616,7 +2625,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 3월 6일 22:19:47",
     "file_name": "40034968.py3",
-    "tier": "6"
+    "tier": "silver_5"
   },
   {
     "id": "40031587",
@@ -2625,7 +2634,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 3월 6일 21:20:21",
     "file_name": "40031587.py3",
-    "tier": "6"
+    "tier": "silver_5"
   },
   {
     "id": "40018789",
@@ -2634,7 +2643,7 @@
     "language": "Python 3",
     "submissionDate": "2022년 3월 6일 17:05:09",
     "file_name": "40018789.py3",
-    "tier": "6"
+    "tier": "silver_5"
   },
   {
     "id": "40017338",
@@ -2643,7 +2652,7 @@
     "language": "Python 3",
     "submissionDate": "2022년 3월 6일 16:40:42",
     "file_name": "40017338.py3",
-    "tier": "7"
+    "tier": "silver_4"
   },
   {
     "id": "40014438",
@@ -2652,7 +2661,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 3월 6일 15:50:55",
     "file_name": "40014438.py3",
-    "tier": "6"
+    "tier": "silver_5"
   },
   {
     "id": "40005675",
@@ -2661,7 +2670,7 @@
     "language": "Python 3",
     "submissionDate": "2022년 3월 6일 12:30:40",
     "file_name": "40005675.py3",
-    "tier": "8"
+    "tier": "silver_3"
   },
   {
     "id": "40004850",
@@ -2670,7 +2679,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 3월 6일 11:58:39",
     "file_name": "40004850.py3",
-    "tier": "8"
+    "tier": "silver_3"
   },
   {
     "id": "40004201",
@@ -2679,7 +2688,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 3월 6일 11:36:58",
     "file_name": "40004201.py3",
-    "tier": "8"
+    "tier": "silver_3"
   },
   {
     "id": "39949099",
@@ -2688,7 +2697,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 3월 4일 23:26:39",
     "file_name": "39949099.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "39940822",
@@ -2697,7 +2706,7 @@
     "language": "PyPy3",
     "submissionDate": "2022년 3월 4일 20:59:35",
     "file_name": "39940822.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "39940702",
@@ -2706,7 +2715,7 @@
     "language": "Python 3",
     "submissionDate": "2022년 3월 4일 20:57:20",
     "file_name": "39940702.py3",
-    "tier": "11"
+    "tier": "gold_5"
   },
   {
     "id": "39772731",
@@ -2715,7 +2724,7 @@
     "language": "Python 3",
     "submissionDate": "2022년 3월 1일 14:56:47",
     "file_name": "39772731.py3",
-    "tier": "4"
+    "tier": "bronze_2"
   },
   {
     "id": "39767874",
@@ -2724,7 +2733,7 @@
     "language": "Python 3",
     "submissionDate": "2022년 3월 1일 12:44:54",
     "file_name": "39767874.py3",
-    "tier": "5"
+    "tier": "bronze_1"
   },
   {
     "id": "39767336",
@@ -2733,7 +2742,7 @@
     "language": "Python 3",
     "submissionDate": "2022년 3월 1일 12:22:01",
     "file_name": "39767336.py3",
-    "tier": "6"
+    "tier": "silver_5"
   },
   {
     "id": "39767195",
@@ -2742,7 +2751,7 @@
     "language": "Python 3",
     "submissionDate": "2022년 3월 1일 12:16:40",
     "file_name": "39767195.py3",
-    "tier": "6"
+    "tier": "silver_5"
   },
   {
     "id": "39766997",
@@ -2751,7 +2760,7 @@
     "language": "Python 3",
     "submissionDate": "2022년 3월 1일 12:08:38",
     "file_name": "39766997.py3",
-    "tier": "6"
+    "tier": "silver_5"
   },
   {
     "id": "39766320",
@@ -2760,7 +2769,7 @@
     "language": "Python 3",
     "submissionDate": "2022년 3월 1일 11:44:32",
     "file_name": "39766320.py3",
-    "tier": "6"
+    "tier": "silver_5"
   },
   {
     "id": "39766201",
@@ -2769,7 +2778,7 @@
     "language": "Python 3",
     "submissionDate": "2022년 3월 1일 11:40:44",
     "file_name": "39766201.py3",
-    "tier": "6"
+    "tier": "silver_5"
   },
   {
     "id": "39697276",
@@ -2778,7 +2787,7 @@
     "language": "Python 3",
     "submissionDate": "2022년 2월 27일 20:05:12",
     "file_name": "39697276.py3",
-    "tier": "7"
+    "tier": "silver_4"
   },
   {
     "id": "32735587",
@@ -2787,7 +2796,7 @@
     "language": "Python 3",
     "submissionDate": "2021년 8월 29일 03:18:20",
     "file_name": "32735587.py3",
-    "tier": "7"
+    "tier": "silver_4"
   },
   {
     "id": "32735393",
@@ -2796,7 +2805,7 @@
     "language": "Python 3",
     "submissionDate": "2021년 8월 29일 03:00:42",
     "file_name": "32735393.py3",
-    "tier": "5"
+    "tier": "bronze_1"
   },
   {
     "id": "32735291",
@@ -2805,7 +2814,7 @@
     "language": "Python 3",
     "submissionDate": "2021년 8월 29일 02:52:15",
     "file_name": "32735291.py3",
-    "tier": "4"
+    "tier": "bronze_2"
   },
   {
     "id": "32735079",
@@ -2814,7 +2823,7 @@
     "language": "Python 3",
     "submissionDate": "2021년 8월 29일 02:34:27",
     "file_name": "32735079.py3",
-    "tier": "5"
+    "tier": "bronze_1"
   },
   {
     "id": "32735017",
@@ -2823,7 +2832,7 @@
     "language": "Python 3",
     "submissionDate": "2021년 8월 29일 02:31:28",
     "file_name": "32735017.py3",
-    "tier": "5"
+    "tier": "bronze_1"
   },
   {
     "id": "32734810",
@@ -2832,7 +2841,7 @@
     "language": "Python 3",
     "submissionDate": "2021년 8월 29일 02:17:23",
     "file_name": "32734810.py3",
-    "tier": "3"
+    "tier": "bronze_3"
   },
   {
     "id": "32734746",
@@ -2841,7 +2850,7 @@
     "language": "Python 3",
     "submissionDate": "2021년 8월 29일 02:11:42",
     "file_name": "32734746.py3",
-    "tier": "1"
+    "tier": "bronze_5"
   },
   {
     "id": "32734714",
@@ -2850,7 +2859,7 @@
     "language": "Python 3",
     "submissionDate": "2021년 8월 29일 02:09:22",
     "file_name": "32734714.py3",
-    "tier": "1"
+    "tier": "bronze_5"
   },
   {
     "id": "32734675",
@@ -2859,7 +2868,7 @@
     "language": "Python 3",
     "submissionDate": "2021년 8월 29일 02:06:27",
     "file_name": "32734675.py3",
-    "tier": "3"
+    "tier": "bronze_3"
   },
   {
     "id": "32734632",
@@ -2868,7 +2877,7 @@
     "language": "Python 3",
     "submissionDate": "2021년 8월 29일 02:03:37",
     "file_name": "32734632.py3",
-    "tier": "1"
+    "tier": "bronze_5"
   },
   {
     "id": "32734591",
@@ -2877,7 +2886,7 @@
     "language": "Python 3",
     "submissionDate": "2021년 8월 29일 02:01:36",
     "file_name": "32734591.py3",
-    "tier": "1"
+    "tier": "bronze_5"
   },
   {
     "id": "32734580",
@@ -2886,7 +2895,7 @@
     "language": "Python 3",
     "submissionDate": "2021년 8월 29일 02:00:56",
     "file_name": "32734580.py3",
-    "tier": "1"
+    "tier": "bronze_5"
   },
   {
     "id": "32734573",
@@ -2895,7 +2904,7 @@
     "language": "Python 3",
     "submissionDate": "2021년 8월 29일 02:00:38",
     "file_name": "32734573.py3",
-    "tier": "1"
+    "tier": "bronze_5"
   },
   {
     "id": "32734563",
@@ -2904,7 +2913,7 @@
     "language": "Python 3",
     "submissionDate": "2021년 8월 29일 01:59:52",
     "file_name": "32734563.py3",
-    "tier": "1"
+    "tier": "bronze_5"
   },
   {
     "id": "32734516",
@@ -2913,7 +2922,7 @@
     "language": "Python 3",
     "submissionDate": "2021년 8월 29일 01:55:33",
     "file_name": "32734516.py3",
-    "tier": "1"
+    "tier": "bronze_5"
   },
   {
     "id": "32734466",
@@ -2922,7 +2931,7 @@
     "language": "Python 3",
     "submissionDate": "2021년 8월 29일 01:52:22",
     "file_name": "32734466.py3",
-    "tier": "1"
+    "tier": "bronze_5"
   },
   {
     "id": "32734420",
@@ -2931,7 +2940,7 @@
     "language": "Python 3",
     "submissionDate": "2021년 8월 29일 01:49:11",
     "file_name": "32734420.py3",
-    "tier": "1"
+    "tier": "bronze_5"
   },
   {
     "id": "32734403",
@@ -2940,7 +2949,7 @@
     "language": "Python 3",
     "submissionDate": "2021년 8월 29일 01:48:13",
     "file_name": "32734403.py3",
-    "tier": "1"
+    "tier": "bronze_5"
   },
   {
     "id": "32732082",
@@ -2949,6 +2958,6 @@
     "language": "Python 3",
     "submissionDate": "2021년 8월 29일 00:09:47",
     "file_name": "32732082.py3",
-    "tier": "9"
+    "tier": "silver_2"
   }
 ]

@@ -1,1 +1,1 @@
-# Example content
+print(len(input().split()))

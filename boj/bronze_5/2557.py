@@ -1,1 +1,1 @@
-# Example content
+print("Hello World!")

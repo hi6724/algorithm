@@ -1,1 +1,4 @@
-# Example content
+print("\    /\\")
+print(" )  ( ')")
+print("(  /  )")
+print(" \(__)|")
