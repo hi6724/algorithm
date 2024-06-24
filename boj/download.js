@@ -1,26 +1,44 @@
-function printTbodyChildren(tbody) {
-  // 모든 tr 요소를 찾습니다.
-  let rows = tbody.querySelectorAll('tr');
+const TIER = ['bronze', 'silver', 'gold', 'platinum', 'diamond'];
 
-  // 결과를 저장할 리스트를 생성합니다.
+function downloadJson(data) {
+  const jsonString = JSON.stringify(data, null, 2);
+  const blob = new Blob([jsonString], { type: 'application/json' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = 'data.json';
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  URL.revokeObjectURL(url);
+  data.forEach((el) => {
+    window.open(`https://www.acmicpc.net/source/download/${el.id}`);
+  });
+}
+
+function printTbodyChildren(tbody) {
+  let rows = tbody.querySelectorAll('tr');
   let results = [];
 
   rows.forEach((row) => {
-    // 각 tr 요소에서 필요한 값을 추출합니다.
-    let id = row.id.split('-')[1]; // 'solution-77712435'에서 '77712435'를 추출합니다.
+    let id = row.id.split('-')[1];
     let problemId = row.querySelector('td:nth-child(3) > a').textContent.trim();
     let problemTitle = row.querySelector('td:nth-child(3) > a').dataset.originalTitle;
     let language = row.querySelector('td:nth-child(7) > a').textContent.trim();
     let submissionDate = row.querySelector('td:nth-child(9) > a').dataset.originalTitle;
     let tier = row.querySelector('.solvedac-tier').src.split('tier/')[1].split('.svg')[0];
+    const tierName = TIER[Math.floor((+tier - 1) / 5)];
+    const tierCnt = 5 - ((+tier - 1) % 5);
+
     let file_name = 'py3';
     if (language.toLowerCase().includes('java')) {
       file_name = 'java';
     } else if (language.toLowerCase().includes('node')) {
       file_name = 'js';
+    } else if (language.toLowerCase().includes('c++')) {
+      file_name = 'cc';
     }
 
-    // 추출한 값을 객체로 저장합니다.
     let result = {
       id: id,
       problemId: problemId,
@@ -28,17 +46,15 @@ function printTbodyChildren(tbody) {
       language: language,
       submissionDate: submissionDate,
       file_name: `${id}.${file_name}`,
-      tier,
+      tier: `${tierName}_${tierCnt}`,
     };
 
-    // 결과 리스트에 추가합니다.
     results.push(result);
   });
   return results;
 }
 
 function openNextPage(href) {
-  // 현재 페이지에서 next_page id를 가진 a 태그를 찾는다.
   var newWindow = window.open(href, '_blank');
 
   newWindow.onload = function () {
@@ -49,20 +65,27 @@ function openNextPage(href) {
     if (nextPageLink) nextHref = nextPageLink.getAttribute('href');
     if (tbody) tbodyContent = printTbodyChildren(tbody);
 
-    newWindow.opener.postMessage({ type: 'hunmok', tbody: tbodyContent, href: nextHref }, '*');
+    newWindow.opener.postMessage({ type: 'BOJ_SCRIPT', tbody: tbodyContent, href: nextHref }, '*');
 
     newWindow.close();
   };
 }
 
 window.addEventListener('message', function ({ data }) {
-  if (data?.type !== 'hunmok') return;
+  if (data?.type !== 'BOJ_SCRIPT') return;
   const { href, tbody } = data;
   rootData.push(...tbody);
   if (href) openNextPage(href);
+  if (!href) downloadJson(rootData);
 });
 
-function initPage() {
+function initPage(id) {
+  const url = `https://www.acmicpc.net/status?user_id=${id}&result_id=4`;
+  if (location.href !== url) {
+    location.href = url;
+    return;
+  }
+
   const nextLink = window.document.getElementById('next_page');
   const tbody = window.document.querySelector('tbody');
   if (tbody) rootData.push(...printTbodyChildren(tbody));
@@ -70,8 +93,11 @@ function initPage() {
   if (nextLink) {
     const nextHref = nextLink.getAttribute('href');
     openNextPage(nextHref);
+  } else {
+    downLoadJson(rootData);
   }
 }
 
 const rootData = [];
-initPage();
+// 자신의 ID 넣어서 실행
+initPage('');
